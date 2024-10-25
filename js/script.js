@@ -59,7 +59,7 @@ var swiper = new Swiper(".vehicles-slider", {
   spaceBetween: 20,
   loop:true,
   autoplay: {
-    delay: 9500,
+    delay: 2000,
     disableOnInteraction: false,
   },
   pagination: {
